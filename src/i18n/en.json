@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Home",
+    "brandStory": "Brand Story",
+    "products": "Products",
+    "news": "News",
+    "contactUs": "Contact Us"
+  },
+  "home": {
+    "bannerTitle1": "Explore the Depths",
+    "bannerSubtitle1": "With Slinx Professional Wetsuits",
+    "bannerBtn1": "Discover More",
+    "bannerTitle2": "Unleash Your Adventure",
+    "bannerSubtitle2": "Experience Unmatched Comfort and Performance",
+    "bannerBtn2": "Shop Now",
+    "featuredProducts": "Featured Products",
+    "viewDetails": "View Details"
+  },
+  "brandStory": {
+    "title": "Our Story",
+    "content": "Founded in 2008, Slinx (Dongguan Shuishang Sports Goods Co., Ltd.) has been dedicated to providing high-quality diving and surfing apparel. Our team comes from a background of manufacturing for major international brands, bringing years of expertise to our own labels: SLINX and FINDSINE. We specialize in OEM/ODM services for wetsuits, rash guards, and other watersport gear, ensuring top-notch quality and innovation for every adventurer."
+  },
+  "news": {
+    "title": "Latest News",
+    "readMore": "Read More"
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formPhone": "Phone (Optional)",
+    "formSubject": "Subject",
+    "formMessage": "Message",
+    "formSubmit": "Send Message",
+    "address": "Address: 3-4F, No. 6, Kengzai Second Street, Quantang Industrial Zone, Liaobu Town, Dongguan City, Guangdong Province, China",
+    "phone": "Phone: [Insert Phone Number Here]",
+    "email": "Email: [Insert Email Address Here]"
+  },
+  "footer": {
+    "copyright": "© 2025 Slinx Wetsuits. All Rights Reserved."
+  }
+}

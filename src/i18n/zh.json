@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "首页",
+    "brandStory": "品牌故事",
+    "products": "产品中心",
+    "news": "新闻动态",
+    "contactUs": "联系我们"
+  },
+  "home": {
+    "bannerTitle1": "探索深蓝",
+    "bannerSubtitle1": "Slinx 专业潜水服",
+    "bannerBtn1": "探索更多",
+    "bannerTitle2": "释放你的冒险精神",
+    "bannerSubtitle2": "体验无与伦比的舒适与性能",
+    "bannerBtn2": "立即选购",
+    "featuredProducts": "热门产品",
+    "viewDetails": "查看详情"
+  },
+  "brandStory": {
+    "title": "我们的故事",
+    "content": "Slinx（东莞市水尚运动用品有限公司）成立于2008年，一直致力于提供高品质的潜水及冲浪服饰。我们的团队源于为国际大品牌代工的背景，将多年的专业经验融入自主品牌SLINX和FINDSINE。我们专注于潜水服、防晒衣等水上运动装备的OEM/ODM服务，为每一位探险家确保卓越品质与创新设计。"
+  },
+  "news": {
+    "title": "最新资讯",
+    "readMore": "阅读更多"
+  },
+  "contactUs": {
+    "title": "联系我们",
+    "formName": "姓名",
+    "formEmail": "邮箱",
+    "formPhone": "电话 (选填)",
+    "formSubject": "主题",
+    "formMessage": "留言内容",
+    "formSubmit": "发送留言",
+    "address": "地址：中国广东省东莞市寮步镇泉塘工业区坑仔二街6号3-4楼",
+    "phone": "电话：[此处填写电话号码]",
+    "email": "邮箱：[此处填写邮箱地址]"
+  },
+  "footer": {
+    "copyright": "© 2025 Slinx 潜水服。保留所有权利。"
+  }
+}
